@@ -1,0 +1,1 @@
+"辛普森一家" (The Simpsons) 是一部当初由 FOX Broadcasting Company 播出的美漫短集，第一集ė首映于 1989年 12月17日 (*9*). 这部动画秀通过意超实次、心iano.c回顾 popped culture oraz social issues 展现了深刻和令人笑笑的层面的人类和社会 (*3*).
