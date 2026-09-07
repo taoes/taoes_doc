@@ -1,0 +1,18 @@
+/* 编辑器（实时编辑）100%宽度 */
+.markdown-source-view.is-readable-line-width .cm-sizer {
+	max-width: unset !important;
+	width: 100% !important;
+}
+
+/* 预览阅读模式 100%宽度 */
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+	max-width: unset !important;
+	width: 100% !important;
+}
+
+/* 可选：给左右留一点点内边距，文字不贴边框（推荐保留） */
+.markdown-source-view .cm-content,
+.markdown-preview-view .markdown-preview-section {
+	padding-left: 16px;
+	padding-right: 16px;
+}

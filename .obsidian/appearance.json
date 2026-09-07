@@ -1,0 +1,14 @@
+{
+  "accentColor": "#1233b5",
+  "cssTheme": "Wikipedia",
+  "interfaceFontFamily": "FZYouSongS",
+  "textFontFamily": "FZYouSongS",
+  "monospaceFontFamily": "Monaco,Fixedsys Excelsior",
+  "baseFontSize": 17,
+  "translucency": true,
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "full-width"
+  ]
+}
