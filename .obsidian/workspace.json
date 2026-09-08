@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "框架应用/Spring/设计模式.md",
+                "file": "AI 面试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "设计模式"
+              "title": "AI 面试"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "框架应用/Spring/设计模式.md",
+                "file": "AI 面试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "框架应用/Spring/设计模式.md",
+                "file": "AI 面试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "框架应用/Spring/设计模式.md",
+                "file": "AI 面试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,22 @@
   },
   "active": "2077aa1c678f264d",
   "lastOpenFiles": [
+    "中间件/Redis/Redis的集群模式.md",
+    "AI 面试.md",
+    "中间件/MySQL/MySQL的事务机制.md",
+    "中间件/MySQL/MySQL的日志机制.md",
+    "中间件/MySQL/MySQL的架构设计.md",
+    "中间件/MySQL/MySQL的存储引擎.md",
+    "容器化技术/Docker.md",
+    "人工智能/0062. 提示词工程.md",
+    "人工智能/0061 上下文工程(Context Engineering).md",
+    "人工智能/005. 意图识别方案.md",
+    "人工智能/004. Dify 安装部署以及使用.md",
+    "框架应用/Spring/AOP机制.md",
+    "框架应用/Spring/IOC容器.md",
+    "框架应用/SpringBoot/自动装配.md",
+    "框架应用/Spring/事务支持.md",
+    "框架应用/Spring/设计模式.md",
     "框架应用/MyBatis/MyBatis原理.md",
     "监控系统/稳定性方案.md",
     "架构设计/延时任务.md",
@@ -200,22 +216,6 @@
     "架构设计/异地多活/001.异地多活.md",
     "架构设计/微服务架构/微服务架构的基础.md",
     "架构设计/缓存与数据一致性/缓存.md",
-    "架构设计/分层架构/传统MVC分层架构.md",
-    "计算机系统/锁的概念.md",
-    "计算机系统/死锁.md",
-    "计算机系统/加密算法.md",
-    "计算机系统/负载均衡.md",
-    "计算机网络/计算机网络分层.md",
-    "分布式系统/CAP 理论.md",
-    "分布式系统/一致性哈希算法.md",
-    "分布式系统/选举算法.md",
-    "分布式系统/分布式ID.md",
-    "分布式系统/分布式事务.md",
-    "编程语言/Java/JVM 排查常见命令.md",
-    "编程语言/Java/Java中的锁.md",
-    "编程语言/Java/Java集合知识点.md",
-    "编程语言/Java/Java IO 模型.md",
-    "编程语言/Java/Java 线程池.md",
     "编程语言/Java/assert/Pasted image 20260906155916.png",
     "编程语言/Java/assert/Pasted image 20260906155443.png",
     "编程语言/Java/assert/Pasted image 20260906155348.png",
